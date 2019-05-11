@@ -1,7 +1,7 @@
 # ContactManagerRedux
 A contact management App using React and Redux
 
-This app is deployed on Heroku here:
+This app is deployed on Heroku here: https://secure-beach-73342.herokuapp.com/
 
 To run this app localy download the repo:
 
